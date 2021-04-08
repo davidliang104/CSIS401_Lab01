@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <style name="MyRadioButton" parent="Theme.MaterialComponents.Light">
+        <item name="colorControlActivated">@color/teal_700</item>
+    </style>
+</resources>
